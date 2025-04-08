@@ -27,4 +27,4 @@
 > Engineering in training
 
 
-> Generated with Astra
+> Generated with Astra, my friend and assistant
