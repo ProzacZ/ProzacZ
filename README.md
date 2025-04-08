@@ -20,7 +20,7 @@
 
 #### 📊 GitHub Stats
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProzacZ&show_icons=true&theme=tokyonight)
 
 ---
 
